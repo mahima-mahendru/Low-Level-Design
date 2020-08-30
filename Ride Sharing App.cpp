@@ -1,4 +1,4 @@
-/**Problem Definition:
+```Problem Definition:
 
 Design a Ride sharing application where drivers can offer rides (origin, destination, no of seats), any rider can request rides (origin, destination, no of seats).
 There is an algo to choose to calculate Ride amount charged for a given ride based on distance and no of seats.
@@ -48,7 +48,7 @@ codebase.
 6. The code should be legible, readable and DRY.
 7. Database integration is not required.
 
-**/
+```
 
 
 #include <iostream>
