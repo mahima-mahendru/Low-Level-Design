@@ -42,7 +42,8 @@ Expectations:
 2. The code should be demo-able. Either by using the main driver program or test cases.
 3. The code should be modular. The code should have the basic OO design.
 Please do not jam in the responsibilities of one class into another.
-4. The code should be extensible. Wherever applicable, use interfaces and contracts between different methods. It should be easy to add/remove functionality without rewriting the entire
+4. The code should be extensible. Wherever applicable, use interfaces and contracts between different methods.
+	It should be easy to add/remove functionality without rewriting the entire
 codebase.
 5. The code should handle edge cases properly and fail gracefully.
 6. The code should be legible, readable and DRY.
